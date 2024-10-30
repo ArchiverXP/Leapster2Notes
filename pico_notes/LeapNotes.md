@@ -18,4 +18,6 @@ The SD, however, has no such issue and you can read/write to it with ease.
 
 The Leapster2 has an option where you can boot any SD card game, is it possible to make an SD card game that uses the Pico?
 
-Please note that you would have to find some way to bypass the USB connected screen, if it ever becomes a problem.
+<del>Please note that you would have to find some way to bypass the USB connected screen, if it ever becomes a problem.</del>
+
+Edit: the USB connected screen is only a problem if it's a mass storage device, this means that any other usage is not a problem.
